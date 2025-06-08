@@ -1,3 +1,3 @@
 This is my second Repository
 <br>
-Author-Shantanu kr.
+Author-Shantanu kr.(Student)
